@@ -11,3 +11,4 @@ Below is a log and journal of the things learnt from the tutorial:
 23.12.30 - Learnt how to generate SSH keys, and how to connect it with my github account
 24.01.02 - Playing with SSH keys. It's confusing, but will get better at it's use by continuing to push through
          - Created another repo called demo-repo2, using terminal to connect and push local files to github 
+24.01.05 - Getting back into the swing of things. 
