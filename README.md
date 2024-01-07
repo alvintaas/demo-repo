@@ -13,3 +13,4 @@ Below is a log and journal of the things learnt from the tutorial:
          - Created another repo called demo-repo2, using terminal to connect and push local files to github 
 24.01.05 - Getting back into the swing of things
 24.01.06 - More practising with git controls. Extra push for coloring
+24.01.07 - More practice
