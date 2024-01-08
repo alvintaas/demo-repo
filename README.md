@@ -14,3 +14,4 @@ Below is a log and journal of the things learnt from the tutorial:
 24.01.05 - Getting back into the swing of things
 24.01.06 - More practising with git controls. Extra push for coloring
 24.01.07 - More practice
+24.01.08 - Started on Front End Development Libraries on freeCodeCamp
