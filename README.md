@@ -16,3 +16,4 @@ Below is a log and journal of the things learnt from the tutorial:
 24.01.07 - More practice
 24.01.08 - Started on Front End Development Libraries on freeCodeCamp
 24.01.10 - Learning Bootstrap and jQuery on freeCodeCamp
+24.01.11 - Completed jQuery. Intuitive, and incredibly useful in standardizing javascript. Looking into Sass now
