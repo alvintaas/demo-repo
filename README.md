@@ -19,3 +19,4 @@ Below is a log and journal of the things learnt from the tutorial:
 24.01.11 - Completed jQuery. Intuitive, and incredibly useful in standardizing javascript. Look13ing into Sass now
          - Dunno what it was, but Sass was harder to get a grasp than I thought it would be
 24.01.14 - More git practice
+24.01.19 - Learning how to Git Branch
