@@ -20,6 +20,7 @@ Below is a log and journal of the things learnt from the tutorial:
          - Dunno what it was, but Sass was harder to get a grasp than I thought it would be
 24.01.14 - More git practice
 24.01.19 - Learning how to Git Branch
+24.01.22 - Doing more branching practice
 
 ## Local Development
 
