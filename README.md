@@ -9,20 +9,19 @@ I watched the tutorial about "Git and GitHub for Beginners - Crash Course" by fr
 Below is a log and journal of the things learnt from the tutorial:
 
 23.12.30 - Learnt how to generate SSH keys, and how to connect it with my github account
-24.01.02 - Playing with SSH keys. It's confusing, but will get better at it's use by continuing to push through
-         - Created another repo called demo-repo2, using terminal to connect and push local files to github 
+24.01.02 - Playing with SSH keys. It's confusing, but will get better at it's use by continuing to push through - Created another repo called demo-repo2, using terminal to connect and push local files to github
 24.01.05 - Getting back into the swing of things
 24.01.06 - More practising with git controls. Extra push for coloring
 24.01.07 - More practice
 24.01.08 - Started on Front End Development Libraries on freeCodeCamp
 24.01.10 - Learning Bootstrap and jQuery on freeCodeCamp
-24.01.11 - Completed jQuery. Intuitive, and incredibly useful in standardizing javascript. Look13ing into Sass now
-         - Dunno what it was, but Sass was harder to get a grasp than I thought it would be
+24.01.11 - Completed jQuery. Intuitive, and incredibly useful in standardizing javascript. Look13ing into Sass now - Dunno what it was, but Sass was harder to get a grasp than I thought it would be
 24.01.14 - More git practice
 24.01.19 - Learning how to Git Branch
 24.01.22 - Doing more branching practice
 24.01.28 - A week away from the computer. Lets get back into it
 24.01.29 - More git practice
+24.03.05 - Another day. Time to get the chain back going, so I can continue the habit
 
 ## Local Development
 
