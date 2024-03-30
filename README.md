@@ -1,4 +1,3 @@
-this is a new log
 Wise words from a Senior Developer, passing down what was taught to them so many moons ago:
 
 Ok SO, my advice on this isn’t as good as it used to be because, not to blow my own horn, I am now a senior-level engineer and my job is thus more-or-less safe irrespective of whatever’s going on in the market and thus I pay less attention to it than I used to. 
@@ -37,4 +36,4 @@ One note on this: a valid career path is to get to mid-ish level and then transi
 
 Soft Skills
 
-Get some familiarity with "scrum" and "agile", they
+Get some familiarity with "scrum" and "agile", they are product development and project management processes that everyone uses. If you are a junior and you know at least something about this, it will help you get a leg up.
