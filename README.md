@@ -37,3 +37,5 @@ One note on this: a valid career path is to get to mid-ish level and then transi
 Soft Skills
 
 Get some familiarity with "scrum" and "agile", they are product development and project management processes that everyone uses. If you are a junior and you know at least something about this, it will help you get a leg up.
+
+Good luck!
